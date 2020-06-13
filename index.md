@@ -4,14 +4,15 @@ You can use the [editor on GitHub](https://github.com/rstartdas/site/edit/master
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[![Mycelia](http://img.youtube.com/vi/ZKf0TUzxX-U/0.jpg)](http://www.youtube.com/watch?v=ZKf0TUzxX-U "Mycelia")
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Presentación en línea
-
-[![Mycelia](http://img.youtube.com/vi/ZKf0TUzxX-U/0.jpg)](http://www.youtube.com/watch?v=ZKf0TUzxX-U "Mycelia")
 
 # Header 1
 ## Header 2
