@@ -11,6 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+[![Mycelia](http://img.youtube.com/vi/ZmR1MfrV6AU/0.jpg)](http://www.youtube.com/watch?v=ZmR1MfrV6AU "Mycelia")
+
 # Header 1
 ## Header 2
 ### Header 3
