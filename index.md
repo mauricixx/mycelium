@@ -9,9 +9,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Presentación en línea
 
-[![Mycelia](http://img.youtube.com/vi/ZmR1MfrV6AU/0.jpg)](http://www.youtube.com/watch?v=ZmR1MfrV6AU "Mycelia")
+[![Mycelia](http://img.youtube.com/vi/ZKf0TUzxX-U/0.jpg)](http://www.youtube.com/watch?v=ZKf0TUzxX-U "Mycelia")
 
 # Header 1
 ## Header 2
