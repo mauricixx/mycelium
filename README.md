@@ -1,6 +1,7 @@
 # Mycelium
 
 [![Alt text](https://github.com/rstartdas/mycelium/blob/master/img/mycexxxxxx-jpg-peq.jpg)](https://rstartdas.github.io/mycelium/)
+
 https://rstartdas.github.io/mycelium/
 
 ## Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
