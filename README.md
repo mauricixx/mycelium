@@ -10,7 +10,7 @@ Partiendo desde el paradigma de una red de transferencia simbiótica multidirecc
 
 Mycelium v.2020: https://rstartdas.github.io/mycelium/
 
-Mycelium v.2018: https://rstartdas.github.io/mycelium/mycev.2018.html
+Mycelium v.2018-19: https://rstartdas.github.io/mycelium/mycev.2018.html
 
 ```markdown
 [# Mycelium](https://rstartdas.github.io/mycelium/)
