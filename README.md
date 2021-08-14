@@ -1,5 +1,4 @@
-[![Alt text](https://img.youtube.com/vi/AOFgcKuOOXg/1.jpg)](https://www.youtube.com/watch?v=AOFgcKuOOXg&t=1s)
-
+[![Alt text](https://img.youtube.com/vi/AOFgcKuOOXg/0.jpg)]
 https://rstartdas.github.io/mycelium/
 
 Poéticas generativas sobre el Reino Fungi a través de 
