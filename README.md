@@ -9,11 +9,12 @@ El micelio es el conjunto de hifas que forman la parte vegetativa de un hongo y 
 Partiendo desde el paradigma de una red de transferencia simbiótica multidireccional que incide en un ecosistema, se trabaja una performance en vivo, sobre el trabajo mutuo y rizomático existente en el Reino Fungi, modelando una metáfora generada por medio de una unidad dedicada de procesamiento gráfico (GPU), que explora a través de programación computacional interactiva y codificación creativa en vivo, diferentes escenarios audiovisuales reactivos en tiempo real, los cuales relatan un poema generativo sobre el posible futuro de una sociedad micelial en el siglo XXI a partir de la existencia, comportamiento y experiencia de interconexión comunitaria del micelio.
 
 Mycelium v.2020: https://rstartdas.github.io/mycelium/
+
 Mycelium v.2018: https://rstartdas.github.io/mycelium/mycev.2018.html
 
 ```markdown
 [# Mycelium](https://rstartdas.github.io/mycelium/)
 2018 - 2021
 Imágenes y audio generado por computadora en tiempo real. 
-Lenguaje de programación visual TouchDesigner + DAW Ableton Live + Python
+TouchDesigner + DAW Ableton Live + Python + FoxDot, Tidal Cycles, Moc, Processing
 ```
