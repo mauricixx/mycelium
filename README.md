@@ -19,8 +19,15 @@ Imágenes y audio generado por computadora en tiempo real.
 TouchDesigner + DAW Ableton Live + Python + FoxDot, Tidal Cycles, Moc, Processing
 ```
 
+[![Alt text](https://github.com/rstartdas/mycelium/blob/master/img/mycelia_control_panel.001.jpeg)](https://rstartdas.github.io/mycelium/)
+
+[![Alt text](https://github.com/rstartdas/mycelium/blob/master/img/mycelia-controlpanel_2.001.jpeg)](https://rstartdas.github.io/mycelium/)
+
+[![Alt text](https://github.com/rstartdas/mycelium/blob/master/img/mycelia_cpanel_2.001.jpeg)](https://rstartdas.github.io/mycelium/)
 
 [![Alt text](https://github.com/rstartdas/mycelium/blob/master/img/mycelia_cpanel_4.001.jpeg)](https://rstartdas.github.io/mycelium/)
+
+
 
 
 
