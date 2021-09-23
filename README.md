@@ -18,3 +18,10 @@ Mycelium v.2018-19: https://rstartdas.github.io/mycelium/mycev.2018.html
 Imágenes y audio generado por computadora en tiempo real. 
 TouchDesigner + DAW Ableton Live + Python + FoxDot, Tidal Cycles, Moc, Processing
 ```
+
+```markdown
+[![Alt text](https://github.com/rstartdas/mycelium/blob/master/img/mycelia_cpanel_4.001.jpeg)](https://rstartdas.github.io/mycelium/)
+
+```
+
+
